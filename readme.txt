@@ -1,3 +1,5 @@
+Hello World.
+
 This repo contains code to deploy hello world in coffee script to heroku.
 
 That's all.
